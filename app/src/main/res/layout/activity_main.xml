@@ -7,10 +7,9 @@
     tools:context=".MainActivity">
 
     <com.shahriar.project_ui.VsLayout
-        android:id="@+id/vsView"
+        android:layout_margin="20dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src=""
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
